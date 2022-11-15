@@ -1,0 +1,22 @@
+td.highlight {
+  background-color: rgb(192, 255, 248) !important;
+  transition: background 0.1s ease-in;
+}
+
+td.specialHighlight {
+  background-color: rgb(30, 225, 150) !important;
+  transition: background 0.1s ease-in;
+}
+
+h1 {
+  font-family: "Monaco", monospace;
+  margin-left: 20px;
+  margin-top: 10px;
+  margin-bottom: -25px;
+}
+
+h3 {
+  font-family: "Monaco", monospace;
+  margin-left: 20px;
+  font-size: 20px;
+}
