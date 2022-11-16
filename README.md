@@ -1,7 +1,7 @@
 # Dynamic Meal Table using Datatable
 Created with CodeSandbox and Spoonacular API
 
-![alt text](https://github.com/jyumohfour/dynamic_meal_table/blob/main/video_example.gif?raw=true)
+![alt text](https://github.com/jyumohfour/dynamic_meal_table/blob/main/reference.gif?raw=true)
 
 Just a few simple steps to use:
 
