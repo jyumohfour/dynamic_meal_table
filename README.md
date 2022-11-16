@@ -1,6 +1,8 @@
 # Dynamic Meal Table using Datatable
 Created with CodeSandbox and Spoonacular API
 
+![alt text](https://github.com/jyumohfour/dynamic_meal_table/blob/main/example.png?raw=true)
+
 Just a few simple steps to use:
 
 1. Using Spoonacular's powerful API, create custom endpoints and plug them into the API link.
